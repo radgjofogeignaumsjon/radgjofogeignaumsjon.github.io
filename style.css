@@ -1,0 +1,86 @@
+body{
+  background-color: #f3f3f3;
+}
+
+footer{
+  background-color: #303841;
+  color: white;
+  text-align: center;
+  padding: 0rem;
+  margin-left: 10%;
+  margin-right: 10%;
+  background-position: center;
+  white-space:pre;
+  margin-top: 3rem;
+}
+
+section{
+  padding-left: 20%;
+  padding-right: 20%;
+  color: #2d2d2d;
+  text-align: justify;
+}
+p{
+  font-family: 'Roboto', Helvetica, sans-serif;
+  display: block;
+  font-size: 18px;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  line-height: 25px;
+}
+
+h2{
+  font-size: 36px;
+  line-height: 1.25;
+  color: #303841;
+  margin-bottom: 15px;
+  font-weight: 700;
+  text-align: left;
+}
+
+
+#header{
+  width: 240px;
+  height: 150px;
+  margin: 0 auto;
+}
+
+#logo{
+  height: 150px;
+}
+#whiteLink {
+  color: white;
+}
+
+
+.imgTextBox{
+  padding: 10%;
+  padding-top: 15%;
+  margin-top: 0;
+  font-family: Helvetica, sans-serif;
+  font-family: "Montserrat",sans-serif;
+  font-weight: 300;
+  color: white;
+  font-size: 12px;
+  line-height: 40px;
+}
+
+.textbox{
+  font-size: 12px;
+}
+
+.backImg{
+  background-image: url(img/photo3.jpg);
+  object-fit: cover;
+  max-width: 80%;
+  object-position: 100% 0;
+  height: 700px;
+  margin-top: 20px;
+  margin-bottom: 90px;
+  margin-left: 10%;
+  margin-right: 10%;
+  background-position: center;
+}
+
